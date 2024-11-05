@@ -2,7 +2,8 @@
 
 I made this by using HTML5, CSS3, JAVASCRIPT.
 If anyone wants this exact design, then he/she can copy this project's github link. Clone it & modify it according to your need.
-Click on the image given below, to see the final outcome of this project.
+
+Below 👇 the given video is to showcase the final outcome of this project.
 
 
 
